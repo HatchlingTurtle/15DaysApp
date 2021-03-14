@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10100625601",
+    "project_id": "eventsbantul",
+    "storage_bucket": "eventsbantul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10100625601:android:85ffc207d8f0566fdec440",
+        "android_client_info": {
+          "package_name": "com.example.eventsapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10100625601-45dnhnd06f2iok7t8pobnus2ulubbg2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventsapp_firebase",
+            "certificate_hash": "228f6462ef31c2f93a1d7dbab57c57df897666bd"
+          }
+        },
+        {
+          "client_id": "10100625601-hq1rq287d1ktq72e9625l115hgmk4v7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCMBuWlE39fqmFyGYpx4J7Y3GcU_m3vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10100625601-hq1rq287d1ktq72e9625l115hgmk4v7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
