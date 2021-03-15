@@ -5,6 +5,7 @@ import 'package:eventsapp_firebase/error_handler.dart';
 import 'package:eventsapp_firebase/login_page.dart';
 
 import '../home_page.dart';
+import 'package:eventsapp_firebase/home_page/screens/home/home_screen.dart';
 
 class AuthService {
   //Determine if the user is authenticated.
@@ -13,7 +14,7 @@ class AuthService {
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (BuildContext context, snapshot) {
           if (snapshot.hasData) {
-            return HomePage();
+            return HomeScreen();
           } else
             return LoginPage();
         });
