@@ -1,6 +1,6 @@
 # eventsapp_firebase
 
-A new Flutter project.
+Submit Application #30DaysFlutter
 
 ## Getting Started
 
